@@ -26,6 +26,7 @@
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C73?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
 #### 🌍 Социальные сети и контакты
