@@ -1,4 +1,4 @@
-<header align="center">
+  <header align="center">
         <h2><span style="font-size:2em;">👋</span> Привет! Это <b>n13ro</b></h2>
         <div id="views">
             <a href="#"><img src="https://komarev.com/ghpvc/?username=n13ro&style=flat-square&color=blue" alt=""></a>
@@ -8,8 +8,8 @@
             <a href="danilbagisev472@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"></a>
             <a href="https://t.me/n1_3ro"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
         </div>
-</header>
-<section align="center">
+    </header>
+    <div align="center" width="10">
         <h2>👎 Мои технологии</h2>
         <div>
             <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt=""></a>
@@ -22,4 +22,4 @@
             <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt=""></a>
             <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt=""></a>
         </div>
- </section>
+    </div>
