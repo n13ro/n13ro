@@ -9,7 +9,7 @@
             <a href="https://t.me/n1_3ro"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
         </div>
 </header>
-<section align="center" width="10">
+<section align="center">
         <h2>👎 Мои технологии</h2>
         <div>
             <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt=""></a>
