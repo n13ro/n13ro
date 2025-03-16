@@ -1,9 +1,11 @@
+
 ---
 
-### 👋 Сап! Меня зовут *n13ro*
-
-#### 💻 Специализируюсь на **frontend** *&&* **backend(core)**
-Занимаюсь разработкой веб-приложений с использованием технологий, таких как `TypeScript`, `C#`, `Python` и их фреймворки.
+<p>👋 Sap! This is <b>n13ro</b>b></p>
+<div id="views" align="center">
+<img src="https://komarev.com/ghpvc/?username=HildaburJavaDev&style=flat-square&color=blue" alt=""/>
+</div>
+#### 💻 **Backend(c# core)**
 
 #### 🛠 Инструменты и технологии
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -29,7 +31,16 @@
 
 #### 🌍 Социальные сети и контакты
 
-- **Telegram:** @n1_3ro
-- **Discord:** n13ro
+<div id="badges" align="center">
+  <a href="https://vk.com/n13ro">
+    <img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=vk&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="danilbagisev472@mail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://t.me/n1_3ro">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 ---
