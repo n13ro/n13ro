@@ -1,4 +1,7 @@
-<img align="center" src="https://media1.tenor.com/m/55E4Inj4D7wAAAAC/umemiya-wind-breaker.gif" alt="gif">
+
+<div align="center">
+<img  src="https://media1.tenor.com/m/55E4Inj4D7wAAAAC/umemiya-wind-breaker.gif" alt="gif">
+</div>
   <h2 align="center"><span style="font-size:2em;">👋</span> Привет! Это <b>n13ro</b></h2>
         <div id="views" align="center">
             <a href="#"><img src="https://komarev.com/ghpvc/?username=n13ro&style=flat-square&color=blue" alt=""></a>
