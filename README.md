@@ -16,8 +16,8 @@
                 <br/>
                 <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,csharp,postgresql" />
                 <img src="https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,tailwind,dotnetcore,dotnet" />
-                <img src="https://github-widgetbox.vercel.app/api/skills?tools=git" />
-                <img src="https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode" />
+                <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,npm" />
+                <img src="https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode," />
         </div>
         <hr/>
         <div align="center">
