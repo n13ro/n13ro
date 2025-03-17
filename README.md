@@ -17,9 +17,10 @@
             <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,react,postgres,git,github" />
         </div>
         <hr/>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Github+stats;%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+I'm+learning" alt="Typing SVG" />
-  <p>
-    <img src="https://stats.hyo.dev/api/github-stats-advanced?login=n13ro" alt="stat"><br/>
-  </p>
-</div>
+
+        <div align="center">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Github+stats;%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+I'm+learning" alt="Typing SVG" />
+          <p>
+            <img src="https://stats.hyo.dev/api/github-stats-advanced?login=n13ro" alt="stat"><br/>
+          </p>
+        </div>
