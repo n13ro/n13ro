@@ -1,5 +1,5 @@
 
-<div align="center" width="100">
+<div align="center" width="full">
 <img  src="https://media1.tenor.com/m/55E4Inj4D7wAAAAC/umemiya-wind-breaker.gif" alt="gif">
 </div>
   <h2 align="center"><span style="font-size:2em;">👋</span> Привет! Это <b>n13ro</b></h2>
