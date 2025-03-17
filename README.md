@@ -1,5 +1,5 @@
-  <h2><span style="font-size:2em;">👋</span> Привет! Это <b>n13ro</b></h2>
-        <div id="views">
+  <h2 align="center"><span style="font-size:2em;">👋</span> Привет! Это <b>n13ro</b></h2>
+        <div id="views" align="center">
             <a href="#"><img src="https://komarev.com/ghpvc/?username=n13ro&style=flat-square&color=blue" alt=""></a>
         </div>
         <div id="badges">
@@ -8,8 +8,8 @@
             <a href="https://t.me/n1_3ro"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
         </div>
 
-  <h2>👎 Мои технологии</h2>
-        <div>
+  <h2 align="center">👎 Мои технологии</h2>
+        <div align="center">
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
