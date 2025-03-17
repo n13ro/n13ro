@@ -15,6 +15,7 @@
             <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=571FF7&center=true&vCenter=true&width=435&lines=%F0%9F%91%8EMy+stack" alt="Typing SVG" /></a><br/>
             <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,react,postgres,git,github" />
         </div>
+        <hr/>
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=571FF7&width=435&lines=GitHub+stats" alt="Typing SVG" /></a>
   <p>
