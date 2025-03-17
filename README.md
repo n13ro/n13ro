@@ -6,9 +6,9 @@
             <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%91%8BHi!+This+n13ro" alt="Typing SVG" />
         </div>
         <div id="badges" align="center">
-            <a href="https://vk.com/n13ro"><img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=vk&logoColor=white" alt="LinkedIn Badge"></a>
-            <a href="danilbagisev472@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"></a>
-            <a href="https://t.me/n1_3ro"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
+            <a href="https://vk.com/n13ro"><img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk Badge"></a>
+            <a href="danilbagisev472@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"></a>
+            <a href="https://t.me/n1_3ro"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"></a>
         </div>
         <hr/>
         <div align="center">
