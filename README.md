@@ -12,7 +12,7 @@
             <a href="https://t.me/n1_3ro"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
         </div>
 
-  <h2 align="center">👎 My stack</h2>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=571FF7&width=435&lines=GitHub+stats" alt="Typing SVG" /></a>
         <div align="center">
             <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,react,postgres,git,github" />
         </div>
