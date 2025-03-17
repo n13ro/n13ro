@@ -18,6 +18,7 @@
         </div>
         <hr/>
         <div align="center">
+                <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=435&lines=%F0%9F%93%88+Github+stats;%F0%9F%93%89+Status;%F0%9F%93%8A+Statistics" alt="Typing SVG" />
                 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n13ro&theme=transparent" alt="git stat" />
                 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=n13ro&theme=transparent" alt="git stat" />
                 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=n13ro&theme=transparent" alt="git stat" />
