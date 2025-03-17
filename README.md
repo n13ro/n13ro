@@ -1,6 +1,6 @@
 
 <div align="center">
-<img  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="gif">
+<img  src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDIyMjM4NDYsIm5iZiI6MTc0MjIyMzU0NiwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzE3VDE0NTkwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFlNDI3ZGMzNzBiODQ3N2Q5YzY1ZmJiYjg4Yjg0MTJlYWUyZDIyNTU4MGQ3ZjRlNjVhMWQ1ZTExMDk2Y2IwNDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.rwVfU7hedss5bBFGRigHcdJvj98-_o4L06_Dui298y8" alt="gif">
 </div>
   <h2 align="center"><span style="font-size:2em;">👋</span> Привет! Это <b>n13ro</b></h2>
         <div id="views" align="center">
