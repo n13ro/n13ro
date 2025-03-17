@@ -24,4 +24,3 @@
    <img src="https://github-readme-stats.vercel.app/api?username=n13ro&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
   </p>
 </div>
-<img src="" alt="gif">
