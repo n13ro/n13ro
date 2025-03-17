@@ -17,7 +17,7 @@
         </div>
         <hr/>
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%F0%9F%91%8EMy+stack" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%F0%9F%A4%99+GitHub+stats" alt="Typing SVG" /></a>
   <p>
     <img src="https://stats.hyo.dev/api/github-stats-advanced?login=n13ro" alt="stat"><br/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=n13ro&theme=high-contrast" alt="stat">
