@@ -10,5 +10,5 @@
 
   <h2 align="center">👎 Мои технологии</h2>
         <div align="center">
-            <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+            <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,react,postgres,git,github" />
         </div>
