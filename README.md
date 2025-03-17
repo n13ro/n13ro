@@ -17,3 +17,7 @@
             <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,react,postgres,git,github" />
         </div>
         <hr/>
+        
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n13ro&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=n13ro&theme=transparent)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=n13ro&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=n13ro&theme=transparent)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=n13ro&theme=transparent&utcOffset=8)
