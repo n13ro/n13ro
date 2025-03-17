@@ -19,6 +19,7 @@
 <div align="center">
   <h2><b>⭐️GitHub stats</b></h2>
   <p>
-    <img src="https://stats.hyo.dev/api/github-stats-advanced?login=n13ro" alt="ach">
+    <img src="https://stats.hyo.dev/api/github-stats-advanced?login=n13ro" alt="stat"><br/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=n13ro&theme=high-contrast" alt="stat">
   </p>
 </div>
