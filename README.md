@@ -12,12 +12,12 @@
             <a href="https://t.me/n1_3ro"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
         </div>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=571FF7&width=435&lines=GitHub+stats" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=571FF7&width=435&lines=%F0%9F%91%8EMy+stack" alt="Typing SVG" /></a>
         <div align="center">
             <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,react,postgres,git,github" />
         </div>
 <div align="center">
-  <h2><b>⭐️GitHub stats</b></h2>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=571FF7&width=435&lines=GitHub+stats" alt="Typing SVG" /></a>
   <p>
     <img src="https://stats.hyo.dev/api/github-stats-advanced?login=n13ro" alt="stat"><br/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=n13ro&theme=high-contrast" alt="stat">
