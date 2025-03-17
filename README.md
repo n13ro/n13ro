@@ -12,3 +12,11 @@
         <div align="center">
             <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,react,postgres,git,github" />
         </div>
+<details align="left">
+  <summary><h2><b>⭐️GitHub stats</b></h2></summary>
+  <p>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n13ro&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
+   <br>
+   <img src="https://github-readme-stats.vercel.app/api?username=n13ro&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
+  </p>
+</details>
