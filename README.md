@@ -4,13 +4,14 @@
 </div>
   <h2 align="center"><span style="font-size:2em;">👋</span> Hi! This <b>n13ro</b></h2>
         <div id="views" align="center">
-            <a href="#"><img src="https://komarev.com/ghpvc/?username=n13ro&style=flat-square&color=blue" alt=""></a>
+            <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%F0%9F%91%8BHi!+This+n13ro" alt="Typing SVG" /></a>
         </div>
         <div id="badges" align="center">
             <a href="https://vk.com/n13ro"><img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=vk&logoColor=white" alt="LinkedIn Badge"></a>
             <a href="danilbagisev472@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"></a>
             <a href="https://t.me/n1_3ro"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
         </div>
+        <hr/>
         <div align="center">
             <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%F0%9F%91%8EMy+stack" alt="Typing SVG" /></a><br/>
             <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,react,postgres,git,github" />
