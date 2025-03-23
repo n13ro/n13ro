@@ -20,7 +20,6 @@
 
 <h3 align="left">🌁 Работаю со своей командой: <b>AuzaTeam</b></h3>
 <div align="left">
-   <br/>
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="visualstudio logo"  />
   <img src="https://skillicons.dev/icons?i=cs" height="45" alt="csharp logo"  />
