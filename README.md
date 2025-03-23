@@ -17,7 +17,7 @@
 🔧 Использую в частности C# & .NET
 </h3>
 <h3 align="left">🌁 Работаю со своей командой: <b>AuzaTeam</b></h3>
-  
+
   <div align="left">
     <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
     <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="visualstudio logo"  />
@@ -34,15 +34,6 @@
     <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
     <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
   </div>
-</div>
-
-<div align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=791DF7&center=true&vCenter=true&random=true&width=450&lines=%F0%9F%93%88+Git+%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0;%F0%9F%93%89+%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0;%F0%9F%93%8A+%D0%90%D1%88%D0%B0%D0%BB%D0%B5%D1%82%D1%8C" alt="Typing SVG" />
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n13ro&theme=material_palenight" alt="git stat" />
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=n13ro&theme=material_palenight" alt="git stat" />
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=n13ro&theme=material_palenight" alt="git stat" />
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=n13ro&theme=material_palenight" alt="git stat" />
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=n13ro&theme=material_palenight&utcOffset=8" alt="git stat" />
 </div>
 
 <p align="center">
