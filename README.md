@@ -8,7 +8,7 @@
    <a href="https://t.me/n1_3ro"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"></a>
 </div>
 
-<div>
+<div align="left">
 <img align="right" height="400" src="https://gifdb.com/images/high/solo-leveling-498-x-473-gif-31jra6vsgta8gvgz.webp"  />
 <h3 align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=791DF7&width=150&lines=%F0%9F%8D%99+%D0%9E%D0%B1%D0%BE+%D0%BC%D0%BD%D0%B5;%F0%9F%92%98+%D0%93%D0%BE%D0%B2%D0%BE%D1%80%D1%8E;%F0%9F%92%A5+%D0%A4%D0%B0%D0%BA%D1%82%D1%8B" alt="Typing SVG" /><br/>
@@ -18,6 +18,7 @@
 </h3>
 
 <h3 align="left">🌁 Работаю со своей командой: <b>AuzaTeam</b></h3>
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="visualstudio logo"  />
