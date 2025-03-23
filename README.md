@@ -16,10 +16,8 @@
 🌊 Опыт в frontend & backend<br>
 🔧 Использую в частности C# & .NET
 </h3>
-
 <h3 align="left">🌁 Работаю со своей командой: <b>AuzaTeam</b></h3>
 <div align="left">
-   <br/>
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="visualstudio logo"  />
   <img src="https://skillicons.dev/icons?i=cs" height="45" alt="csharp logo"  />
@@ -36,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
 </div>
 </div>
-
+<br/><br/>
 <div align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=435&lines=%F0%9F%93%88+Github+stats;%F0%9F%93%89+Status;%F0%9F%93%8A+Statistics" alt="Typing SVG" />
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n13ro&theme=material_palenight" alt="git stat" />
