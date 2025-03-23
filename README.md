@@ -17,23 +17,25 @@
 🔧 Использую в частности C# & .NET
 </h3>
 <h3 align="left">🌁 Работаю со своей командой: <b>AuzaTeam</b></h3>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="visualstudio logo"  />
-  <img src="https://skillicons.dev/icons?i=cs" height="45" alt="csharp logo"  />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="45" alt="dot-net logo"  />
-  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
-  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
-  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
-  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
-  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo"  />
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
-  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
-  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
+  
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
+    <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="visualstudio logo"  />
+    <img src="https://skillicons.dev/icons?i=cs" height="45" alt="csharp logo"  />
+    <img src="https://skillicons.dev/icons?i=dotnet" height="45" alt="dot-net logo"  />
+    <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
+    <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
+    <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
+    <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
+    <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo"  />
+    <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
+    <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
+    <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
+    <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
+  </div>
 </div>
-</div>
+
 <div align="center">
   <br><br><br>
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=435&lines=%F0%9F%93%88+Github+stats;%F0%9F%93%89+Status;%F0%9F%93%8A+Statistics" alt="Typing SVG" />
@@ -43,6 +45,7 @@
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=n13ro&theme=material_palenight" alt="git stat" />
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=n13ro&theme=material_palenight&utcOffset=8" alt="git stat" />
 </div>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:8A2BE2&height=100&section=footer" />
 </p>
