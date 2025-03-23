@@ -39,11 +39,11 @@
 
 <div align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=435&lines=%F0%9F%93%88+Github+stats;%F0%9F%93%89+Status;%F0%9F%93%8A+Statistics" alt="Typing SVG" />
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n13ro&theme=jolly" alt="git stat" />
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=n13ro&theme=jolly" alt="git stat" />
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=n13ro&theme=jolly" alt="git stat" />
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=n13ro&theme=jolly" alt="git stat" />
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=n13ro&theme=jolly&utcOffset=8" alt="git stat" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n13ro&theme=material_palenight" alt="git stat" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=n13ro&theme=material_palenight" alt="git stat" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=n13ro&theme=material_palenight" alt="git stat" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=n13ro&theme=material_palenight" alt="git stat" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=n13ro&theme=material_palenight&utcOffset=8" alt="git stat" />
 </div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:8A2BE2&height=100&section=footer" />
