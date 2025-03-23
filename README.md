@@ -5,7 +5,7 @@
 <div align="center">
 <img align="right" height="400" src="https://gifdb.com/images/high/solo-leveling-498-x-473-gif-31jra6vsgta8gvgz.webp"  />
 <h3 align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=791DF7&width=150&lines=%F0%9F%8D%99+%D0%9E%D0%B1%D0%BE+%D0%BC%D0%BD%D0%B5;%F0%9F%92%98+%D0%93%D0%BE%D0%B2%D0%BE%D1%80%D1%8E;%F0%9F%92%A5+%D0%A4%D0%B0%D0%BA%D1%82%D1%8B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=be71ef&width=150&lines=%F0%9F%8D%99+%D0%9E%D0%B1%D0%BE+%D0%BC%D0%BD%D0%B5;%F0%9F%92%98+%D0%93%D0%BE%D0%B2%D0%BE%D1%80%D1%8E;%F0%9F%92%A5+%D0%A4%D0%B0%D0%BA%D1%82%D1%8B" alt="Typing SVG" />
 <br>
 🧥 Разрабатываю backend на .NET<br>
 🌊 Опыт в frontend & backend<br>
@@ -31,7 +31,7 @@
   </div>
 <br>
   <div id="badges" align="left">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=791DF7&random=true&width=150&lines=%F0%9F%8E%A8+%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B;%F0%9F%93%AB+%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D1%82%D1%8C%D1%81%D1%8F;%F0%9F%92%BC+Connect"><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=be71ef&random=true&width=150&lines=%F0%9F%8E%A8+%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B;%F0%9F%93%AB+%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D1%82%D1%8C%D1%81%D1%8F;%F0%9F%92%BC+Connect"><br>
     <a href="https://vk.com/n13ro"><img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk Badge"></a>
     <a href="danilbagisev472@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"></a>
     <a href="https://t.me/n1_3ro"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"></a>
