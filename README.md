@@ -37,8 +37,7 @@
 </div>
 
 <div align="center">
-  <br><br><br>
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=435&lines=%F0%9F%93%88+Github+stats;%F0%9F%93%89+Status;%F0%9F%93%8A+Statistics" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=791DF7&center=true&vCenter=true&random=true&width=450&lines=%F0%9F%93%88+Git+%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0;%F0%9F%93%89+%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0;%F0%9F%93%8A+%D0%90%D1%88%D0%B0%D0%BB%D0%B5%D1%82%D1%8C" alt="Typing SVG" />
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n13ro&theme=material_palenight" alt="git stat" />
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=n13ro&theme=material_palenight" alt="git stat" />
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=n13ro&theme=material_palenight" alt="git stat" />
