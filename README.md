@@ -8,7 +8,6 @@
    <a href="https://t.me/n1_3ro"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"></a>
 </div>
 
-<hr/>
 <div>
 <img align="right" height="400" src="https://gifdb.com/images/high/solo-leveling-498-x-473-gif-31jra6vsgta8gvgz.webp"  />
 <h3 align="left">
