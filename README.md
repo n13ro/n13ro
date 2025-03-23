@@ -8,7 +8,6 @@
    <a href="https://t.me/n1_3ro"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"></a>
 </div>
 
-<hr/>
 <div>
 <img align="right" height="400" src="https://gifdb.com/images/high/solo-leveling-498-x-473-gif-31jra6vsgta8gvgz.webp"  />
 <h3 align="left">
@@ -38,7 +37,7 @@
   <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
 </div>
-
+<hr/>
 <div align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=435&lines=%F0%9F%93%88+Github+stats;%F0%9F%93%89+Status;%F0%9F%93%8A+Statistics" alt="Typing SVG" />
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n13ro&theme=transparent" alt="git stat" />
