@@ -12,7 +12,7 @@
 🔧 Использую в частности C# & .NET
 </h3>
 <h3 align="left">🌁 Работаю со своей командой: <b>AuzaTeam</b></h3>
-
+<h3 align="left">🚄 Стэк чуть ниже</h3>
   <div align="left">
     <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
     <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="visualstudio logo"  />
