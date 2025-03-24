@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=200&section=header&text=Hi!%20This%20n13ro!&fontSize=35&fontColor=fff&fontAlignY=40" />
 </p>
-
+<img src="./profile-3d-contrib/profile-green-animate.svg">
 <div align="center">
 <img align="right" height="450" src="https://gifdb.com/images/high/solo-leveling-498-x-473-gif-31jra6vsgta8gvgz.webp"  />
 <h3 align="left">
