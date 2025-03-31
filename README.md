@@ -29,9 +29,9 @@
     <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
     <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
   </div>
-<br>
+<br><br><br><br><br>
   <div id="badges" align="left">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=true&width=150&lines=%F0%9F%8E%A8+%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B;%F0%9F%93%AB+%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D1%82%D1%8C%D1%81%D1%8F;%F0%9F%92%BC+Connect"><br><br><br><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=true&width=150&lines=%F0%9F%8E%A8+%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B;%F0%9F%93%AB+%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D1%82%D1%8C%D1%81%D1%8F;%F0%9F%92%BC+Connect"><br>
     <a href="https://vk.com/n13ro"><img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk Badge"></a>
     <a href="danilbagisev472@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"></a>
     <a href="https://t.me/n1_3ro"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"></a>
