@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=00000&text=Hi%20This%20n13ro&desc=I%20am%20Danil%20and%20now%20C#%20and%20Go%20developer&fontColor=fff&textBg=false&reversal=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=00000&text=Hi%20This%20n13ro&fontColor=fff&textBg=false&reversal=true" />
 </p>
 
 ## My favorite tools and technologies ⚙️
