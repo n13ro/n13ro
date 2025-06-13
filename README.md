@@ -32,7 +32,7 @@
     </td>
   </tr>
   <tr>
-  <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
       <br>VSCode
     </td>
