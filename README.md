@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=00000&text=Hi%20This%20n13ro&fontColor=fff&textBg=false&reversal=true" />
 </p>
-
+<p align="justify">
+Welcome to my GitHub Page. I am Danil and now C# and Go developer.
+</p>
 ## My favorite tools and technologies ⚙️
 > Tools and technologies that I have worked with and am interested in
 <table>
