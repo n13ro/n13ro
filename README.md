@@ -45,6 +45,10 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
       <br>HTML5
     </td>
