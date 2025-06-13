@@ -1,8 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=00000&text=Hi%20This%20n13ro&fontColor=fff&textBg=false&reversal=true" />
-</p>
-<p align="justify">
-Welcome to my GitHub Page. I am Danil and now C# and Go developer.
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=00000&text=Hi%20This%20n13ro&desc=Welcome%20to%20my%20GitHub%20Page.%20I%20am%20Danil%20and%20now%20C#%20and%20Go%20developer.&fontColor=fff&textBg=false&reversal=true" />
 </p>
 
 ## My favorite tools and technologies ⚙️
