@@ -66,10 +66,6 @@
         <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
       <br>React
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
-      <br>Nextjs
-    </td>
   </tr>
 </table>
 
