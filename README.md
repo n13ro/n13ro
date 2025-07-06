@@ -5,6 +5,7 @@
 ## My favorite tools and technologies ⚙️
 > Tools and technologies that I have worked with and am interested in
 <table>
+  
   <tr>
     <td align="center" width="96">
          <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
@@ -31,6 +32,7 @@
       <br>Postgresql
     </td>
   </tr>
+  
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
@@ -49,12 +51,13 @@
             <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
       <br>JavaScript
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
       <br>TypeScript
     </td>
+  </tr>
+  
+  <tr>
     <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
       <br>HTML5
@@ -72,6 +75,7 @@
       <br>React
     </td>
   </tr>
+  
 </table>
 
 ## Github stats 📊
