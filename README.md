@@ -11,15 +11,15 @@
          <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
       <br>git
     </td>
-       <td align="center" width="96">
+    <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
       <br>Github
     </td>
-        <td align="center" width="96">
+    <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="visualstudio logo"  />
       <br>VisualStudio
     </td>
-        <td align="center" width="96">
+    <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=cs" height="45" alt="csharp logo"  />
       <br>CSharp
     </td>
