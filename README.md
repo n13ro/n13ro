@@ -40,6 +40,11 @@
             <img src="https://skillicons.dev/icons?i=go" height="45" alt="go logo"  />
       <br>Golang
     </td>
+    </td>
+      <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=rust" height="45" alt="rust logo"  />
+      <br>Rust
+    </td>
     <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
       <br>JavaScript
