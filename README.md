@@ -49,7 +49,8 @@
             <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
       <br>JavaScript
     </td>
-    <td align="center" width="96">
+  </tr>
+  <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
       <br>TypeScript
     </td>
@@ -61,7 +62,6 @@
         <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo"  />
       <br>CSS3
     </td>
-  </tr>
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
