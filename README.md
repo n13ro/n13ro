@@ -43,7 +43,7 @@
       <br>Golang
     </td>
     <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=rust" height="45" alt="rust logo"  />
+            <img src="https://skillicons.dev/icons?i=nestjs" height="45" alt="nestjs logo"  />
       <br>Rust
     </td>
     <td align="center" width="96">
