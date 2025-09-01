@@ -44,7 +44,7 @@
     </td>
     <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=nestjs" height="45" alt="nestjs logo"  />
-      <br>Rust
+      <br>Nestjs
     </td>
     <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
