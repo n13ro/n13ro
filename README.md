@@ -40,11 +40,11 @@
     </td>
     <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=rust" height="45" alt="rust logo"  />
-      <br>Golang
+      <br>Rust
     </td>
     <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=elixir" height="45" alt="elixir logo"  />
-      <br>Nestjs
+      <br>Elixir
     </td>
     <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
