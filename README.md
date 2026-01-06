@@ -1,5 +1,5 @@
 ```
-                                                                                 js/chsarp/rust                   
+                                                                                 js/chsarp/go/rust?                   
                                                                                                     
                                    ...::....                                                        
                                 ..=@*-.:*%%-.                                                       
