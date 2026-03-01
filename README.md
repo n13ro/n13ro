@@ -53,4 +53,4 @@
                                                                                                     
                                                                                                     
 ```
-<img src="blob:https://ru.pinterest.com/028af9ef-45ea-4517-a168-046241eb0e4c">
+<img src="https://ru.pinterest.com/028af9ef-45ea-4517-a168-046241eb0e4c">
