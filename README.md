@@ -4,6 +4,6 @@
     <h1>n13ro</h1>
     <span>Status: </span><code>player</code>
   </div><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n13ro&show_icons=true&theme=dark#gh-dark-mode-only&custom_title=Player%20statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n13ro&show_icons=true&theme=dark&custom_title=Player%20statistics">
 </div>
 
