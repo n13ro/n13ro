@@ -1,6 +1,5 @@
 <div align="center">
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=n13ro&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://github.com/n13ro/n13ro/blob/main/json/quotes.json&theme=dark&animation=default&layout=samuel&font=Architect&quoteType=random&fontColor=white)
 
 <p align="center">
