@@ -1,9 +1,8 @@
 <div align="center">
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=n13ro&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
-![Quotes](https://quotes-github-readme.vercel.app/api?quote=Even%20when%20it%27s%20hard%2C%20remember%20who%20you%27re%20trying%20so%20hard%20for%21%20%E2%9D%A4&author=n13ro&theme=dark)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://github.com/n13ro/n13ro/blob/main/json/quotes.json&theme=dark&animation=default&layout=samuel&font=Architect&quoteType=random&fontColor=white)
 
-</br>
 <p align="center">
   <a href="https://t.me/n13ro"><img src="https://img.shields.io/badge/-Telegram-f5e0dc?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram"/></a>
 </p>
