@@ -1,4 +1,4 @@
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://github.com/n13ro/n13ro/blob/main/json/quotes.json&theme=dark&animation=default&layout=samuel&font=Architect&quoteType=random&fontColor=white)
+
 
 <a href="https://t.me/n13ro"><img src="https://img.shields.io/badge/-Telegram-f5e0dc?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram"/></a>
 <div align="left" justify-content="space-between">
