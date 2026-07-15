@@ -1,5 +1,6 @@
 <div align="center">
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=n13ro&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 ![Quotes](https://quotes-github-readme.vercel.app/api?quote=Even%20when%20it%27s%20hard%2C%20remember%20who%20you%27re%20trying%20so%20hard%20for%21%20%E2%9D%A4&author=n13ro&theme=dark)
 
 </br>
@@ -11,6 +12,5 @@
     <a href="./README-RU.md"><img src="https://img.shields.io/badge/README-RU-blue?color=eba0ac&labelColor=1C2325&style=for-the-badge"></a>
 	<a href="./README.md"><img src="https://img.shields.io/badge/README-ENG-blue?color=fab387&labelColor=fab387&style=for-the-badge"></a>
 </div>
-
 
 </div>
