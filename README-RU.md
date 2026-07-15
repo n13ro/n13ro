@@ -1,6 +1,6 @@
 <div align="center">
 
-![Quotes](https://quotes-github-readme.vercel.app/api?quote=Даже%20когда%20трудно%2C%20вспомни%20ради%20кого%20ты%20так%20стараешься%21%20%E2%9D%A4&author=n13ro&theme=dark)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://github.com/n13ro/n13ro/blob/main/json/quotes-ru.json&theme=dark&animation=default&layout=samuel&font=Architect&quoteType=random&fontColor=white)
 
 </br>
 <p align="center">
