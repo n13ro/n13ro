@@ -31,7 +31,7 @@
         <img src="https://img.shields.io/badge/-Telegram-E0D3DE?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram"/>
     </a>
     <a href="https://github.com/n13ro">
-        <img src="https://img.shields.io/badge/-GitHub-ACACDE?style=for-the-badge&logo=github&logoColor=000000" alt="Telegram"/>
+        <img src="https://img.shields.io/badge/-GitHub-ACACDE?style=for-the-badge&logo=github&logoColor=000000" alt="Github"/>
     </a>
 </div>
 
