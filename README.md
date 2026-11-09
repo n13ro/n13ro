@@ -14,7 +14,7 @@
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,rabbitmq,ts,js,nextjs,vue,postgres,redis,aws,docker,linux,ansible&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,rabbitmq,ts,js,nextjs,vue,postgres,redis,git,github,gitlab,githubactions,aws,docker,linux,ansible,grafana,prometheus&theme=dark&perline=7" />
 
 </div>
 
